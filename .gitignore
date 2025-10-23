@@ -81,7 +81,15 @@ logs/
 # Cache
 .cache/
 
+#Project specific ignores
 Example2.txt
 Example3.txt
 TopSellingAlbums.csv
 TopSellingAlbums.xlsx
+Golden_State.pkl
+dog.jpg
+employee.csv
+image.png
+new_sample.xml
+sample.json
+sample.xlsx
